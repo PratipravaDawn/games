@@ -1,6 +1,6 @@
 ## 📂 Projects Overview
 
-### 1️⃣ Tic Tac Toe
+### 1️. Tic Tac Toe
 A simple browser-based Tic Tac Toe game for two players.  
 Players take turns placing **X** or **O** until one wins or the game ends in a draw.  
 
@@ -8,7 +8,7 @@ Players take turns placing **X** or **O** until one wins or the game ends in a d
 
 ---
 
-### 2️⃣ Rock Paper Scissors
+### 2️. Rock Paper Scissors
 Challenge the computer in this quick decision-making game.  
 Choose Rock 🪨, Paper 📄, or Scissors ✂️ and see if you win!  
 
@@ -16,7 +16,7 @@ Choose Rock 🪨, Paper 📄, or Scissors ✂️ and see if you win!
 
 ---
 
-### 3️⃣ Currency Converter
+### 3️. Currency Converter
 Convert between world currencies using a real-time API.  
 Features:
 - Select currencies from dropdowns
