@@ -4,7 +4,7 @@
 A simple browser-based Tic Tac Toe game for two players.  
 Players take turns placing **X** or **O** until one wins or the game ends in a draw.  
 
-![Tic Tac Toe Screenshot]({images}/tictactoe.png)
+![Tic Tac Toe Screenshot](tictactoe/images.png)
 
 ---
 
@@ -12,7 +12,7 @@ Players take turns placing **X** or **O** until one wins or the game ends in a d
 Challenge the computer in this quick decision-making game.  
 Choose Rock 🪨, Paper 📄, or Scissors ✂️ and see if you win!  
 
-![Rock Paper Scissors Screenshot]({images}/rockpaperscissors.png)
+![Rock Paper Scissors Screenshot](rockpaperscissors/images.png)
 
 ---
 
@@ -23,4 +23,4 @@ Features:
 - Instant conversion  
 - Live exchange rates  
 
-![Currency Converter Screenshot]({images}/currencyconverter.png)
+![Currency Converter Screenshot](CurrencyConverter/images.png)
